@@ -1,6 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://yahoo.co.jp/"
 languageCode = "ja"
 title = "My New Hugo Site"
 defaultContentLanguage = "ja"
 theme = "learn"
 publishDir = "docs"  # ‚±‚Ìs‚ğ’Ç‰Á
+canonifyurls = true
