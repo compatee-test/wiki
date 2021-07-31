@@ -1,4 +1,4 @@
-baseURL = "http://yahoo.co.jp/"
+baseURL = "https://compatee-test.github.io/wiki/"
 languageCode = "ja"
 title = "My New Hugo Site"
 defaultContentLanguage = "ja"

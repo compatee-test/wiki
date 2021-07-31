@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ようこそ on My New Hugo Site</title>
-    <link>http://yahoo.co.jp/</link>
+    <link>https://compatee-test.github.io/wiki/</link>
     <description>Recent content in ようこそ on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Jul 2021 10:16:33 +0900</lastBuildDate><atom:link href="http://yahoo.co.jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 10:16:33 +0900</lastBuildDate><atom:link href="https://compatee-test.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用許諾条件</title>
-      <link>http://yahoo.co.jp/posts/%E8%A8%B1%E8%AB%BE%E6%9D%A1%E4%BB%B6/</link>
+      <link>https://compatee-test.github.io/wiki/posts/%E8%A8%B1%E8%AB%BE%E6%9D%A1%E4%BB%B6/</link>
       <pubDate>Sat, 31 Jul 2021 10:16:33 +0900</pubDate>
       
-      <guid>http://yahoo.co.jp/posts/%E8%A8%B1%E8%AB%BE%E6%9D%A1%E4%BB%B6/</guid>
+      <guid>https://compatee-test.github.io/wiki/posts/%E8%A8%B1%E8%AB%BE%E6%9D%A1%E4%BB%B6/</guid>
       <description>本接続仕様書のご利用に当たっては、必ず以下の項目をお読みいただき、以下の使用許諾条件に同意いただくことを条件とします。
 （著作権等）
 本接続仕様書の各種情報等（以下「技術情報等」という。）に関する著作権等の一切の権利は、東証に帰属します。
@@ -28,19 +28,19 @@
     
     <item>
       <title>1.はじめに</title>
-      <link>http://yahoo.co.jp/posts/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</link>
+      <link>https://compatee-test.github.io/wiki/posts/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</link>
       <pubDate>Sat, 31 Jul 2021 10:16:33 +0900</pubDate>
       
-      <guid>http://yahoo.co.jp/posts/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</guid>
+      <guid>https://compatee-test.github.io/wiki/posts/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</guid>
       <description>本仕様書は、CONNEQTOR と取引参加者システム（以下「参加者システム」という。）間のＦＩＸ（Financial Information eXchange）プロトコルに基づく接続仕様を記述したものである。 なお、システム間の全ての電文及び通信手順は、FIX プロトコル V4.2(Errata)に準拠するものとする。</description>
     </item>
     
     <item>
       <title>2. 概要</title>
-      <link>http://yahoo.co.jp/posts/%E6%A6%82%E8%A6%81/</link>
+      <link>https://compatee-test.github.io/wiki/posts/%E6%A6%82%E8%A6%81/</link>
       <pubDate>Sat, 31 Jul 2021 10:16:33 +0900</pubDate>
       
-      <guid>http://yahoo.co.jp/posts/%E6%A6%82%E8%A6%81/</guid>
+      <guid>https://compatee-test.github.io/wiki/posts/%E6%A6%82%E8%A6%81/</guid>
       <description>2.1 システム概要   機関投資家とマーケットメイカーは CONNEQTOR を通じて気配提示依頼や気配提示を行い、CONNEQTOR はマッチした注文等の情報を本仕様書に定める接続仕様に準じて参加者システムに 連携する。参加者システムまたは CONNEQTOR は ToSTNeT システム間接続仕様書・FIX 接続仕様書に準じて ToSTNeT に注文する。
   CONNEQTOR は、arrownet(注１)またはインターネットを経由して参加者システムの FIX クライアントに接続する。
   参加者システムは、CONNEQTOR と通信を行うためのＦＩＸクライアントを設置する。FIX クライアントは、FIX V4.2(Errata)に準拠した FIX サービス（注２）と FIX アプリケーション（注３）が存在する。
