@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "My New Hugo Site"
+defaultContentLanguage = "ja"
+theme = "learn"
+canonifyurls = true
+publishDir = "docs"  # ‚±‚Ìs‚ğ’Ç‰Á
